@@ -8,6 +8,11 @@ public class Main {
           int size = 3;
           int count = 0;
           int[] myArray = new int[size];
+        //if((num1 && num2 == 1) || (num3 && num2 == 1) || (num1 && num3){
+        //
+        //} else if {
+        //
+        //}
         ///
         for (int num = 0; num < size; num++) {
             myArray[num] = scanner.nextInt();
@@ -26,10 +31,6 @@ public class Main {
         }   if (count > 1) {
                 System.out.println("false");
             }
-        //if((num1 && num2 == 1) || (num3 && num2 == 1) || (num1 && num3){
-        //
-        //} else if {
-        //}
         /*if() {
             System.out.println("true");
         } else {
